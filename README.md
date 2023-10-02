@@ -4,7 +4,7 @@ Website Development Project for MUJ Hacks 8.0 - 36 Hour Hackathon organised by E
  
 # TEAM NAME - Hack Freaks
 
-TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
+TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta)
 
 OTHER TEAMMATE - Soumyadeep Banerjee(GitHub Username - soubanj270)
 
